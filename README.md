@@ -2,6 +2,9 @@
 * [![Develop Build Status](https://travis-ci.org/d0c-s4vage/pfp.svg?branch=develop)](https://travis-ci.org/d0c-s4vage/pfp) - develop
 * [![Documentation Status](https://readthedocs.org/projects/pfp/badge/?version=latest)](https://readthedocs.org/projects/pfp/?badge=latest)
 
+# Why StegoVeritas Branch?
+PFP requirements are jacked. See the py010parser for info: https://github.com/bannsec/py010parser/tree/stegoveritas. Mainly need to modify this so that it installs my version of py010parser with the updated requirements.txt.
+
 # pfp
 
 `pfp` is a python-based interpreter for 010 template scripts.

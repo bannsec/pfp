@@ -6,7 +6,7 @@ from setuptools import setup
 
 setup(
     # metadata
-    name='pfp',
+    name='stegoveritas-pfp',
     description='An 010 template interpreter for Python',
     long_description="""
         pfp is an 010 template interpreter for Python. It accepts an
@@ -21,7 +21,7 @@ setup(
     author='James Johnson',
     maintainer='James Johnson',
     author_email='d0c.s4vage@gmail.com',
-    url='https://github.com/d0c-s4vage/pfp',
+    url='https://github.com/bannsec/pfp/tree/stegoveritas',
     platforms='Cross Platform',
     download_url="https://github.com/d0c-s4vage/pfp/tarball/v0.2.3",
     install_requires = open(os.path.join(os.path.dirname(__file__), "requirements.txt")).read().split("\n"),
